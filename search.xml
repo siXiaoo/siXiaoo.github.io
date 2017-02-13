@@ -5,7 +5,7 @@
     <entry>
       <title><![CDATA[如何使用Hexo建立一个自己的个人Blog及主页美化？]]></title>
       <url>%2F2017%2F01%2F13%2F%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Hexo%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AA%E4%BA%BABlog%E5%8F%8A%E4%B8%BB%E9%A1%B5%E7%BE%8E%E5%8C%96%EF%BC%9F%2F</url>
-      <content type="text"><![CDATA[Hexo 是基于 Node.js 开发的一个静态博客生成器，提供本地实时预览及部署功能。基本使用方式如下： 注册Github首先我们需要做的是去 GitHub 注册一个帐号，并创建一个Repository仓库。这里需要注意的是仓库的名称必须是 用户名.github.io ，才能使用 Github Pages . 配置git的具体使用请移步阮一峰老师的网站 创建本地仓库 新建仓库文件夹 1$ mkdir blog 初始化仓库 进入到blog文件夹，执行初始化命令。12$ cd blog # 切换到blog目录$ git init # 初始化git仓库 创建本地仓库]]></content>
+      <content type="text"><![CDATA[Hexo 是基于 Node.js 开发的一个静态博客生成器，提供本地实时预览及部署功能。基本使用方式如下： 注册Github首先我们需要做的是去 GitHub 注册一个帐号，并创建一个Repository仓库。这里需要注意的是仓库的名称必须是 用户名.github.io ，才能使用 Github Pages . 配置git的具体使用请移步阮一峰老师的网站 创建本地仓库 新建仓库文件夹 1$ mkdir blog 初始化仓库 进入到blog文件夹，执行初始化命令。12$ cd blog # 切换到blog目录$ git init # 初始化git仓库 未更完……]]></content>
     </entry>
 
     
